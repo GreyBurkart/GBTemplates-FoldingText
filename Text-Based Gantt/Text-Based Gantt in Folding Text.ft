@@ -1,0 +1,33 @@
+# Text-Based Gantt in Folding Text
+
+* Use `headers` to specify levels, stages, whatever makes sense for your hierarchy.
+* Use `lists` to add details (options include unordered lists, indented code blocks, definition lists, etc)
+* Use `option-tab` to insert tabs for visual indenting
+* Use `option-command-left/right arrows` to fold as needed
+* Define how long a single monospace stands for: Day, whatever.
+	* Use solid bars (option-dash) if you don't care, standard dash if you do. Or switch around with find/replace or a script to do it.
+	* Or use different marks for different sections. Pick your glyphs for what it means to you, not me.
+
+# Time Scale
+  |Jan--Feb--Mar--Apr--**May**--Jun--Jul--Sep--**Oct**--|
+
+# 1	 |–––––––––––––––––––––|
+## 1.a |–––––|
+: _Who likes planning poker?_
+## 1.b 		 |––––|
+: _Use lists to add descriptions, details, etc. They can be folded. Definition lists look nice to me._ 
+	> Code blocks work well, too
+## 1.c 				|–––––––|
+: _Concurrent and stuff_
+	This is all notes and whatever, and can be folded.
+# 2 					  |----------------|
+## 2.a						|-------------|
+## 2.b							  |-----------|
+: What's not handled: Scales and rescaling.
+
+# Other Notes
+Remember, it's just text. 
+
+*Caveat:* The above is just intended for quick and dirty thinking, using monospace fonts + FoldingText's node folding ability to reduce the amount of visual clutter as needed.
+
+*Downside:* Yes, it's all plain text, but several parts of this document don't translate as well when viewed in other text editors.

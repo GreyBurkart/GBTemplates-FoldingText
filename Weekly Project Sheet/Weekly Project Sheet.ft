@@ -1,0 +1,120 @@
+# Weekly Project Sheet 
+
+This is what I'm using right now. I needed a way to keep my week in perspective. With this single file, I track what projects I'm working on, what's coming up, and what the rest of the week looks like. Since I keep my windows tiled, this sheet is usually viewable as a "sidebar" on the righthand third of my screen.
+
+It's my tracker and dashboard for the week. The formatting is pretty arbitrary, I like the way it looks in FT and how it translates to iOS text editors like WriteRoom.
+
+## Process
+- From my projects and events, timeslots get reserved in advance at the beginning of each week. 3 slots works for me to figure out how much time I'll have to work on bigger/more important things this week. 
+- From the projects and Events lists, I mark out how many timeslots are already "spoken for" based on what I've committed to this week. I tend to use `…` because it's easy to type, read around, and delete. Events that take up big chunks of time in my day (appointments, meetings, etc) take up a time slot since I can't be working in two places at once and frankly, I need a blatant reminder when planning the day.
+- Collapse what isn't used. Most of the time, I don't need to see details about next week's events, the timer, or what happened earlier in the week.
+- You can collapse any block of text if it's not a header section with View > Collapse. Collapsing each day of the week gets the "done stuff" out of the way without having to delete or move it around.
+- Focus In on a section when I don't need to see anything else.
+
+    Thanks for reading -- GB, 2013-01-16
+
+---
+
+
+# EXAMPLE -- Weekly Project Sheet
+
+## Committed Projects List (January 2013).todo
+	- Work: Submit update to reviewers
+		- Work: Upload release candidate
+	- Work: New art for motivational poster app @done
+	- Work: TPS Reports
+	- +Work: Fix the kitchen sink (_surprise!_)
+	- Side Proj: Interview with random passersby
+	- Side Proj: Test-fire the email newsletter
+	- Home: 2012 taxes @done
+
+## Reminders
+- Keep the office heat lower today
+
+### Scheduler.timer
+Start : Jan 16, 2013 9:18:14 AM
+Deal with email for 10 minutes
+Lunch in 2 hours
+Afternoon meeting in 2 hours
+Finish up for the day in 4 hours
+Done in 5 seconds after that
+
+### Events Calendar
+	
+    2013 Week 03
+	> 1/15: Postal package delivery
+	> 1/16: Meeting, 3p
+	> 1/17: Appointment, 11a
+	> 1/17: Night workshop, 5:30-8p
+	> 1/20: Sunday driving
+
+
+    2013 Week 04
+	> 1/21: MLK Jr. Day
+	> 1/23: Workshop, 5:30-8p
+	> 1/24: Appointment 5:30-8p
+	
+## Timeslots for Week.todo
+	**Monday:**
+		- Secret base layout rev733 (err, taxes) @done
+		- Reply to mountain to weekend email @done
+		- Run poster art through Instagram filters @done
+	**Tuesday:** 
+		- Wireframes for new the wireframe app @done
+		- Scrub the bug tracker. Lots of soap. @done
+		- …
+	**Wednesday:**
+		- Meeting (3p-4p)
+		- …
+		- …
+	**Thursday:**
+		- Appointment (10a-1p)
+		- Night workshop (4p-9p)
+		- 
+	**Friday:**
+		- TPS Reports
+		- 
+		- 
+
+
+---
+
+
+# TEMPLATE -- Weekly Project Sheet
+
+## Committed Projects List (January 2013).todo
+	- 
+
+## Reminders
+
+### Scheduler.timer
+
+### Events Calendar
+	
+    2013 Week 03
+	> 1/14: 
+	
+    2013 Week 04
+	> 1/21: 
+	
+## Timeslots for Week.todo
+	**Monday:**
+		- 
+		- 
+		- 
+	**Tuesday:** 
+		- 
+		- 
+		- 
+	**Wednesday:**
+		- 
+		- 
+		- 
+	**Thursday:**
+		- 
+		- 
+		- 
+	**Friday:**
+		- 
+		- 
+		- 
